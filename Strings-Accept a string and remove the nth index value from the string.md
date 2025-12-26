@@ -29,3 +29,4 @@ remove(a,n)
 <img width="685" height="142" alt="i13" src="https://github.com/user-attachments/assets/678bbcd7-9d56-4f74-ad32-432e1a1e1fe1" />
 
 ## Result
+Thus the given program is verified and executed sucessfully.
